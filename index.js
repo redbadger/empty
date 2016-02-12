@@ -2,6 +2,7 @@
 
 exports.object = require('./object');
 exports.array = require('./array');
+exports.string = require('./string');
 exports.func = require('./function');
 exports.functionThatReturns = require('./functionThatReturns');
 exports.functionThatReturnsTrue = require('./functionThatReturnsTrue');
